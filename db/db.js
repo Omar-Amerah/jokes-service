@@ -7,6 +7,8 @@ const sequelize = new Sequelize({
     logging: false
 });
 
+//const squelize = new Sequelize("")
+
 module.exports = {
     sequelize,
     Sequelize
